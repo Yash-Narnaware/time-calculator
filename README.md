@@ -3,13 +3,13 @@ Program to calculate the time taken to run various linux commands using various 
 
 ## Files in the directory - 
 
-1. time_simplistic.c - to execute command and compute gross time considering scheduling and context switch time
+1. **time_simplistic.c** - to execute command and compute gross time considering scheduling and context switch time
 
-2. time_pipe.c - contains code for executing a command and measuring the time using pipe mechanism
+2. **time_pipe.c** - contains code for executing a command and measuring the time using pipe mechanism
 
-3. time_shared_memory.c - contains code for executing a command and measuring the time using shared memory mechanism
+3. **time_shared_memory.c** - contains code for executing a command and measuring the time using shared memory mechanism
 
-4. Makefile - to automate the compiling process
+4. **Makefile** - to automate the compiling process
 
 
 ## How to run this program?
